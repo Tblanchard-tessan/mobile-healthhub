@@ -1,0 +1,19 @@
+# Fichiers à ignorer lors du déploiement sur GCP
+.git
+.gitignore
+README.md
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
